@@ -2,7 +2,9 @@
   height: 1016px;
   width: 981px;
   display: flex;
-  direction: vertical;
+  flex-direction: column;
+  align-content: center;
+  text-align: center;
 }
 .chooser{
   height : 253px;
