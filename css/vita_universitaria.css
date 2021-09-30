@@ -1,0 +1,10 @@
+.choose_container{
+  height: 1016px;
+  width: 981px;
+  display: flex;
+  direction: vertical;
+}
+.chooser{
+  height : 253px;
+  width: 981px;
+}
