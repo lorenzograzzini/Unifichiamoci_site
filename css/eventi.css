@@ -1,0 +1,28 @@
+.centering{
+  height: 4792px;
+  width: 100%;
+  display: flex;
+  justify-content: center
+}
+.main_container{
+  width: 940px;
+  height: 4792px;
+  display: flex;
+  flex-direction: column;
+  background-color: green;
+  z-index: 1;
+}
+.article_container{
+  height: 792px;
+  width: 940px;
+  background-color: blue;
+  position: absolute;
+  z-index: 2;
+}
+.image_container{
+  height: 529px;
+  width: 940px;
+  background-color: red;
+  position: absolute;
+  z-index: 3;
+}
