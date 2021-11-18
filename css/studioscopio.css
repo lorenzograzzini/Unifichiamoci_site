@@ -27,6 +27,12 @@
   width: 940px;
   z-index: 3;
 }
+.image_contained{
+  width: 626px;
+  height: 529px;
+  z-index: 3;
+  object-fit: cover;
+}
 .didascalia{
   width: 940px;
   height: 263px;
