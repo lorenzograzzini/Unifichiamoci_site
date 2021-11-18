@@ -1,0 +1,132 @@
+.centering{
+  height: 18998.8px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 45px;
+}
+.main_container{
+  height: 18998.8px;
+  width: 940px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.article_container{
+  width: 940px;
+  height: 354.75px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-color: rgba(232, 230, 230, 0.75);
+  border-width: 1px;
+  border-style: solid;
+  margin-bottom: 24.1px;
+}
+.image_container{
+  height: 354.75px;
+  width: 473px;
+}
+.didascalia{
+  height: 100%;
+  width: 467px;
+  padding-left: 35px;
+  display: flex;
+  flex-direction: column;
+}
+.author_container{
+  width: 371px;
+  height: 34px;
+  display: flex;
+  flex-direction: row;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-top: 25px;
+}
+.svg_image_account{
+  height: 32px;
+  width: 32px;
+  align-self: center;
+}
+
+.HOi00{
+  box-sizing: inherit;
+  font: inherit;
+}
+.author{
+  height: 32px;
+  padding-left: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.author_name{
+  height: 19px;
+  display: flex;
+  align-self: center;
+  flex-direction: row;
+}
+.svg_image_profile{
+  height: 19px;
+  width: 19px;
+}
+.name{
+  height: 13px;
+  font-weight: inherit;
+  font-style: inherit;
+}
+.date_and_time{
+  height: 13px;
+  display:flex;
+  flex-direction: row;
+}
+.point_container{
+  width: 18px;
+  height: 2px;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+.point{
+  width: 2px;
+  height: 2px;
+  border-radius: 50%;
+  align-self: center;
+  background-color: black;
+  box-sizing: inherit;
+  align-self: center;
+}
+.nocolor{
+  color: black;
+  text-decoration: none;
+}
+#article_refer:hover{
+  color: rgb(194, 101, 132);
+}
+#article_refer{
+  margin-top: 23px;
+  width: 371px;
+  height: 152.75px;
+}
+.description{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: baseline;
+}
+.title{
+  font: normal normal normal 28px/35px proxima-n-w01-reg,sans-serif;
+  width: 371px;
+  align-self: center;
+  text-align: left;
+}
+.description_text{
+  width: 371px;
+  align-self: center;
+  text-align: left;
+  margin-top: 10px;
+  font: normal normal normal 16px/20px proxima-n-w01-reg,sans-serif;
+}
+.name:hover{
+  text-decoration: underline;
+}
