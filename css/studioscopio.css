@@ -12,7 +12,7 @@
   z-index: 1;
 }
 .article_container{
-  height: 792px;
+  height: auto;
   width: 940px;
   z-index: 2;
   display: flex;
