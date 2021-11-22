@@ -39,7 +39,7 @@
           }
         }
         if ($check == True) {
-          header("Location: http://localhost:8888/GitHub/Unifichiamoci_site/html/home/home.html");
+          header("Location: ../html/home/home.html");
         }else {
           echo "<script>
           document.getElementById('check_text').value = 'error';
