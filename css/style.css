@@ -79,7 +79,7 @@ body{
 	height: auto;
 	overflow: visible;
 	z-index: 18;
-	
+
 }
 .menu ul li a{
 	text-align:auto;
@@ -88,7 +88,7 @@ body{
 	padding: 5px 10px;
 	border:none;
 	z-index: 18;
-	
+
 }
 .structural {
 position:absolute;
