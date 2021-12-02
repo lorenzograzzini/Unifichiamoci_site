@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>Unifichiamoci</title>
+    <link rel="stylesheet" href="../../css/vita_universitaria.css">
+    <link rel="stylesheet" href="C:\Users\leoda\OneDrive\Documenti\Università\unifichiamoci\Classicss.css">
+</head>
+<body>
+<header>
+    <div style="margin:0px ;padding:0px; background-color: #c00; text-align:center;">
+        <ul class=menu >
+            <li ><a href="#"><img src="../images/logo ovale.webp"></a></li>
+            <li><a href="home/home.html">HOME</a></li>
+            <li><a href="#">RUBRICHE</a>
+                <ul>
+                    <li><a href="#">Cultura</a></li>
+                    <li><a href="#">Diari</a></li>
+                    <li><a href="#">L'angolo di Apollo</a></li>
+                    <li><a href="#">Recenzioni</a></li>
+                    <li><a href="#">Sport</a></li>
+
+                </ul>
+
+            </li>
+            <li><a href="vita universitaria/vita_universitaria.html">VITA UNIVERSITARIA</a>
+                <ul>
+                    <li><a href="#">Collaborazioni</a></li>
+                    <li><a href="#">Eventi</a></li>
+                    <li><a href="#">La voce degli studenti</a></li>
+                    <li><a href="studioscopio.html">Studioscopo UNIFI</a></li>
+                    <li><a href="#">Unichiedici</a></li>
+                    <li><a href="#">ViviFirenze</a></li>
+                </ul>
+            </li>
+            <li><a href="#">CHI SIAMO</a></li>
+            <li><a href="#">CONTATTACI</a></li>
+            <li><a href="#">ARCHIVIO</a></li>
+            <li><a href="#"></a>
+                <label for="search" class="structural">Search 456bereastreet.com</label>
+                <input type="search" id="search" name="search" class="txt" size="20">
+                <input type="submit" class="btn" value="Search"></li>
+            <li ><a href="https://www.instagram.com/unifichiamoci/?igshid=rcmrnwh9yuii" target="_blank"><img src="../images/instagram.webp" id="image"></a></li>
+            <li ><a href="mailto:unifichiamoci@gmail.com" target="_blank"><img src="../images/gmail.webp" id="image"></a></li>
+        </ul>
+    </div>
+</header>
+<center>
+    <div class="choose_container">
+        <div class="chooser" id="Cultura">
+            <div class="color_maker"></div>
+            <div class="text_cointaner">
+                <h4 class="chooser_text" style="font-size:35px; line-height:1em">
+              <span style="font-size:35px">
+                <span style="color:#FFFFFF">
+                  <span style="font-weight:bold">
+                    <span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif">Cultura</span>
+                  </span>
+                </span>
+              </span>
+                </h4>
+            </div>
+            <a href="#" class="chooser">
+                <img src="../../images/ponte.webp" class="chooser">
+            </a>
+        </div>
+        <div class="chooser" id="Diari">
+            <div class="color_maker"></div>
+            <div class="text_cointaner">
+                <h4 class="chooser_text" style="font-size:35px; line-height:1em">
+              <span style="font-size:35px">
+                <span style="color:#FFFFFF">
+                  <span style="font-weight:bold">
+                    <span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif">Diari</span>
+                  </span>
+                </span>
+              </span>
+                </h4>
+            </div>
+            <a href="#" class="chooser">
+                <img src="../../images/Diari_rubriche.webp" class="chooser">
+            </a>
+        </div>
+        <div class="chooser" id="FakeBuster">
+            <div class="color_maker"></div>
+            <div class="text_cointaner">
+                <h4 class="chooser_text" style="font-size:35px; line-height:1em">
+              <span style="font-size:35px">
+                <span style="color:#FFFFFF">
+                  <span style="font-weight:bold">
+                    <span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif">FakeBuster</span>
+                  </span>
+                </span>
+              </span>
+                </h4>
+            </div>
+            <a href="#" class="chooser">
+                <img src="../../images/ghost.webp" class="chooser">
+            </a>
+        </div>
+        <div class="chooser" id="Recensioni">
+            <div class="color_maker"></div>
+            <div class="text_cointaner">
+                <h4 class="chooser_text" style="font-size:35px; line-height:1em">
+              <span style="font-size:35px">
+                <span style="color:#FFFFFF">
+                  <span style="font-weight:bold">
+                    <span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif">Recensioni</span>
+                  </span>
+                </span>
+              </span>
+                </h4>
+            </div>
+            <a href="#" class="chooser">
+                <img src="../../images/Recensioni-rubriche.webp" class="chooser">
+            </a>
+        </div>
+        <div class="chooser" id="Sport">
+            <div class="color_maker"></div>
+            <div class="text_cointaner">
+                <h4 class="chooser_text" style="font-size:35px; line-height:1em">
+              <span style="font-size:35px">
+                <span style="color:#FFFFFF">
+                  <span style="font-weight:bold">
+                    <span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif">Sport</span>
+                  </span>
+                </span>
+              </span>
+                </h4>
+            </div>
+            <a href="#" class="chooser">
+                <img src="../../images/calcio.webp" class="chooser">
+            </a>
+        </div>
+        </div>
+    </div>
+    <div class="colum">
+        <div class="mesi">
+            <div class="mese_box">
+                <a href="#" class="mese">
+                    <div class="text">
+                        <span>Novembre 2021</span>
+                    </div>
+                </a>
+            </div>
+            <div class="mese_box">
+                <a href="#" class="mese">
+                   <div class="text">
+                       <span>Ottobre 2021</span>
+                   </div>
+                </a>
+            </div>
+            <div class="mese_box">
+                <a href="#" class="mese">
+                    <div class="text">
+                        <span>Settembre 2021</span>
+                    </div>
+                </a>
+            </div>
+            <div class="mese_box">
+                <a href="#" class="mese">
+                    <div class="text">
+                        <span>Agosto 2021</span>
+                    </div>
+                </a>
+            </div>
+            <div class="mese_box">
+                <a href="#" class="mese">
+                    <div class="text">
+                        <span>Luglio 2021</span>
+                    </div>
+                </a>
+            </div>
+            <div class="mese_box">
+                <a href="#" class="mese">
+                    <div class="text">
+                        <span>Giugno 2021</span>
+                    </div>
+                </a>
+            </div>
+            <div class="mese_box">
+                <a href="#" class="mese">
+                    <div class="text">
+                        <span>Maggio 2021</span>
+                    </div>
+                </a>
+            </div>
+            <div class="mese_box">
+                <a href="#" class="mese">
+                    <div class="text">
+                        <span>Aprile 2021</span>
+                    </div>
+                </a>
+            </div>
+            <div class="mese_box">
+                <a href="#" class="mese">
+                    <div class="text">
+                        <span>Marzo 2021</span>
+                    </div>
+                </a>
+            </div>
+            <div class="mese_box">
+                <a href="#" class="mese">
+                    <div class="text">
+                        <span>Febbraio 2021</span>
+                    </div>
+                </a>
+            </div>
+            <div class="mese_box">
+                <a href="#" class="mese">
+                    <div class="text">
+                        <span>Gennaio 2021</span>
+                    </div>
+                </a>
+            </div>
+            <div class="mese_box">
+                <a href="#" class="mese">
+                    <div class="text">
+                        <span>Dicembre 2020</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="tags">
+            <a href="#" class="tag">
+                <span>Curiosità</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Cultura</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Firenze</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Diari</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Amore</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Etimologia</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Apollo</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Angolodiapollo</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Calendario dell'avvento</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Film</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Calcio</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Detti</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Bus</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Etimologedario</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Coronavirus</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Cinema</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Bascket</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Dolore</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Città</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Covid-19</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Gatti</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Ansia</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Arte</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Dante</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Errori</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Filosofia</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Album</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Calendario</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Contadini</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Covid</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Dante Alighieri</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Donne</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Emozioni</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Estate</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Femminismo</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Fiorentina</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Ginnastica Artistica</span>
+            </a>
+            <a href="#" class="tag">
+                <span>2020</span>
+            </a>
+            <a href="#" class="tag">
+                <span>2021</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Aborto</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Ali</span>
+            </a>
+            <a href="#" class="tag">
+                <span>America's Cup</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Anarchia</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Angelica</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Angelo</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Anima</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Anime</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Anni 60</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Anniversario</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Ataf</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Autolinee Toscane</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Bellezza</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Bergman</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Biblioteca</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Calciodistrada</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Canzoni</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Categorie</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Cibo</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Comunicazione</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Consigli Viaggio</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Console</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Cretinismo</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Cretino</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Cristiano</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Csx</span>
+            </a>
+            <a href="#" class="tag">
+                <span>Cyberpunk 2077</span>
+            </a>
+        </div>
+    </div>
+</center>
+<footer>
+    <div>
+        <ul class=menu style="margin:0 auto;" >
+            <li><a href="#"></a></li>
+            <li><a href="#"><hr></hr>HOME</a></li>
+            <li><a href="#"><hr></hr>RUBRICHE</a>	</li>
+            <li><a href="#"><hr></hr>VITA UNIVERSITARIA</a></li>
+            <li><a href="#"><hr></hr>CONTATTACI</a></li>
+            <li><a href="#"><hr></hr>ARCHIVIO</a></li>
+        </ul>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+</body>
+</html>
