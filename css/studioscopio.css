@@ -2,7 +2,8 @@
   height: 4792px;
   width: 100%;
   display: flex;
-  justify-content: center
+  justify-content: center;
+  margin-top: 10px;
 }
 .main_container{
   width: 940px;
@@ -20,7 +21,7 @@
   border-color: rgba(232, 230, 230, 0.75);
   border-width: 1px;
   border-style: solid;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 .image_container{
   height: 529px;
