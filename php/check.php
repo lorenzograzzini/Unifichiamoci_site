@@ -8,7 +8,7 @@
       <input type="text" name="check_text" id="check_text" value="error">
     </form>
     <?php
-      //http://localhost:8888/GitHub/Unifichiamoci/php/login.php
+      //http://localhost:8888/GitHub/unifichiamoci_site/php/login.php
       try {
         $username = htmlspecialchars($_REQUEST["username"]);
         $password = htmlspecialchars($_REQUEST["Password"]);
