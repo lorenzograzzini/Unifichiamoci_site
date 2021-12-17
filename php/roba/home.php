@@ -5,10 +5,9 @@
 	<link href="../../css/style.css" rel="stylesheet"type="text/css">
 </head>
 <body style="margin: 0;">
-	<?php
-  $header = fopen("header.php","r");
-  echo $header;
-   ?>
+  <?php
+	echo file_get_contents("header.php");
+	 ?>
 	<div class="div_grande">
 		<div class="div_immagine">
 
