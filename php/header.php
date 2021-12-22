@@ -1,4 +1,4 @@
-<header style="z-index: 16;">
+<header style="z-index: 16; margin-bottom: 20px;" id="header_id">
  <div style="margin:0px ;padding:0px; background-color: #c00; text-align:center;">
         <ul class=menu >
           <li ><a href="#"><img src="../../images/logo ovale.webp"></a></li>
@@ -31,7 +31,7 @@
           <label for="search" class="structural">Search 456bereastreet.com</label>
           <input type="search" id="search" name="search" class="txt" size="20">
           <input type="submit" class="btn" value="Search"></li>
-          <li ><a href="https://www.instagram.com/unifichiamoci/?igshid=rcmrnwh9yuii" target="_blank"><img src="../images/instagram.webp" id="image"></a></li>
-          <li ><a href="mailto:unifichiamoci@gmail.com" target="_blank"><img src="../images/gmail.webp" id="image"></a></li>
+          <li ><a href="https://www.instagram.com/unifichiamoci/?igshid=rcmrnwh9yuii" target="_blank"><img src="../../images/instagram.webp" id="image"></a></li>
+          <li ><a href="mailto:unifichiamoci@gmail.com" target="_blank"><img src="../../images/gmail.webp" id="image"></a></li>
   </div>
 </header>

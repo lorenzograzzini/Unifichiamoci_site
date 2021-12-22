@@ -3,6 +3,11 @@
 <head>
 	<link href="../../css/slideshow2.css" rel="stylesheet"type="text/css">
 	<link href="../../css/style.css" rel="stylesheet"type="text/css">
+	<style>
+		#header_id{
+			margin-bottom: 0px;
+		}
+	</style>
 </head>
 <body style="margin: 0;">
   <?php
