@@ -6,7 +6,7 @@
 </head>
 <body style="margin: 0;">
   <?php
-	echo file_get_contents("header.php");
+	echo file_get_contents("../header.php");
 	 ?>
 	<div class="div_grande">
 		<div class="div_immagine">
