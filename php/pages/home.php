@@ -191,7 +191,7 @@
 	</div>
 	<div><img class="div_img_tabella" src="../../images/calcio.webp"></div>
 	</div>
-	<iframe src="../../html/footer.html" width="100%" height="142px;" style="border: none; margin-top: 10px;"></iframe>
+	<iframe src="../footer.html" width="100%" height="142px;" style="border: none; margin-top: 10px;"></iframe>
 	<script src="../../js/slideshow2.js "charset="utf-8"></script>
 </body>
 </html>
