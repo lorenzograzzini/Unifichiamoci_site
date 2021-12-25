@@ -4,5 +4,5 @@ fwrite($page," <?php
 echo 'banana';
   ?>");
 fclose($page);
-header("roba.php");
+header("Location: roba.php");
  ?>
