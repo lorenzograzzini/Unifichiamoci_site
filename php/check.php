@@ -26,7 +26,7 @@
       if (!$mysqli) {
         exit();
       }
-      $result = mysqli_query($mysqli,"SELECT code, username, password FROM member");
+      $result = mysqli_query($mysqli,"SELECT username, password FROM Member");
       if (mysqli_num_rows($result) > 0) {
         $check = False;
         while($row = mysqli_fetch_assoc($result)) {
