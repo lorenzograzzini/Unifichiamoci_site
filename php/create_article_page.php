@@ -1,6 +1,5 @@
 <?php
-
-$page = fopen("roba.php","w+");
+$page = fopen(".php","w+");
 fwrite($page," <?php
 echo 'banana';
   ?>");
