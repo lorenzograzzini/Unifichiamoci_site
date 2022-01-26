@@ -2,3 +2,6 @@
   width: 40px;
   border: solid 1px black;
 }
+#empty_div{
+  top:-500px;
+}
